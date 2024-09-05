@@ -1,0 +1,36 @@
+# Data processing and analysis
+pandas
+numpy
+scikit-learn
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+
+# Haystack and its dependencies
+farm-haystack
+elasticsearch
+faiss-cpu
+
+# Deep learning
+torch
+torchvision
+
+# Web framework
+fastapi
+uvicorn
+
+# API requests
+requests
+
+# Visualization (optional, for debugging/analysis)
+matplotlib
+seaborn
+
+# Testing
+pytest
+
+# Utilities
+tqdm
+python-dotenv
